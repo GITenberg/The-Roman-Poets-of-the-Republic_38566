@@ -1,0 +1,27 @@
+_repo: The-Roman-Poets-of-the-Republic_38566
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sellar, W. Y. (William Young)
+    alias: Sellar, William Young
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '36826'
+    url: http://www.gutenberg.org/2009/agents/36826
+description: An examination of the poets of the Roman Republic.
+gutenberg_issued: '2012-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin poetry -- History and criticism'
+- !lcc 'PA'
+title: The Roman Poets of the Republic, 3rd edition
+url: http://www.gutenberg.org/ebooks/38566
