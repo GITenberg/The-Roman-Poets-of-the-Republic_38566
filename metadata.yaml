@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36826'
     url: http://www.gutenberg.org/2009/agents/36826
 description: An examination of the poets of the Roman Republic.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38566#The-Roman-Poets-of-the-Republic
 gutenberg_issued: '2012-01-13'
 gutenberg_type: Text
 identifiers:
